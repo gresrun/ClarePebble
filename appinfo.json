@@ -1,18 +1,17 @@
 {
-    "versionLabel": "1.0.0",
-    "uuid": "5c9d8a81-7476-4990-823a-ecd8ad2665a3",
-    "appKeys": {},
-    "longName": "ClarePebble",
-    "versionCode": 1,
-    "capabilities": [
-        ""
-    ],
-    "shortName": "ClarePebble",
-    "companyName": "Clare Controls LLC",
-    "watchapp": {
-        "watchface": false
-    },
-    "resources": {
-        "media": []
-    }
+  "uuid": "c47f3bba-d1cd-40a6-9cac-795d725079c5",
+  "shortName": "ClarePebble",
+  "longName": "ClarePebble",
+  "companyName": "Clare Controls LLC",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
 }
